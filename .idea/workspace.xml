@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e767fa89-cc8d-4b13-82ff-0c7489e5f69d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/img/turntable-sl1210.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mastering-lab/ai-mastering/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mastering-lab/analysis/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mastering-lab/mastering-engineers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mastering-lab/mastering-guide/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/vinyl-lab/cutting-lab/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/vinyl-lab/library/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/vinyl-lab/packaging-designer/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/vinyl-lab/vinyl-engraver/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/vertical/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/vertical/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/chat/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/mastering-lab/chat/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/dashboards/library/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/vinyl-lab/creator/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +63,7 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "18.12.1",
     "javascript.nodejs.core.library.typings.version": "",
-    "last_opened_file_path": "C:/Users/jamesc/Projects/waxpress-react-ts",
+    "last_opened_file_path": "C:/Users/jamesc/Projects/waxpress-react-ts/src/pages/mastering-lab/ai-mastering",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,6 +84,19 @@
         <entry key="com.haulmont.rcb.reactInspector" value="true" />
       </map>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jamesc\Projects\waxpress-react-ts\src\pages\mastering-lab\ai-mastering" />
+      <recent name="C:\Users\jamesc\Projects\waxpress-react-ts\src\pages\mastering-lab\mastering-engineers" />
+      <recent name="C:\Users\jamesc\Projects\waxpress-react-ts\src\pages\mastering-lab\mastering-school" />
+      <recent name="C:\Users\jamesc\Projects\waxpress-react-ts\src\pages\mastering-lab\analysis" />
+      <recent name="C:\Users\jamesc\Projects\waxpress-react-ts\src\pages\vinyl-lab\cutting-lab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jamesc\Projects\waxpress-react-ts\src\pages\vinyl-lab" />
+      <recent name="C:\Users\jamesc\Projects\waxpress-react-ts\src\pages\mastering-lab" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.build">
     <configuration name="build-storybook" type="js.build_tools.npm" nameIsGenerated="true">
@@ -184,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674511301982</updated>
-      <workItem from="1674511303122" duration="7970000" />
+      <workItem from="1674511303122" duration="9768000" />
     </task>
     <servers />
   </component>

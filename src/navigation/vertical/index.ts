@@ -4,64 +4,55 @@ import { VerticalNavItemsType } from 'src/@core/layouts/types'
 const navigation = (): VerticalNavItemsType => {
   return [
     {
-      title: 'Dashboards',
+      title: 'Vinyl Lab',
       icon: 'tabler:smart-home',
       badgeContent: 'new',
       badgeColor: 'error',
       children: [
         {
-          title: 'Analytics',
-          path: '/dashboards/analytics'
+          title: 'Library',
+          path: '/vinyl-lab/library'
         },
         {
-          title: 'CRM',
-          path: '/dashboards/crm'
+          title: 'Vinyl Creator',
+          path: '/vinyl-lab/creator'
         },
         {
-          title: 'eCommerce',
-          path: '/dashboards/ecommerce'
+          title: 'Packaging Designer',
+          path: '/vinyl-lab/packaging-designer'
+        },
+        {
+          title: 'Vinyl Engraver',
+          path: '/vinyl-lab/vinyl-engraver'
+        },
+        {
+          title: 'Press Copies',
+          path: '/vinyl-lab/cutting-lab'
         }
       ]
     },
     {
-      sectionTitle: 'Apps & Pages'
+      sectionTitle: 'Mastering Lab'
     },
     {
-      title: 'Email',
+      title: 'Audio Analysis',
       icon: 'tabler:mail',
-      path: '/apps/email'
+      path: '/mastering-lab/analysis'
     },
     {
-      title: 'Chat',
+      title: 'Mastering Engineers',
       icon: 'tabler:messages',
-      path: '/apps/chat'
+      path: '/mastering-lab/mastering-engineers'
     },
     {
-      title: 'Calendar',
+      title: 'Mastering Chat',
       icon: 'tabler:calendar',
-      path: '/apps/calendar'
+      path: '/mastering-lab/chat'
     },
     {
-      title: 'Invoice',
+      title: 'Mastering Guide',
       icon: 'tabler:file-dollar',
-      children: [
-        {
-          title: 'List',
-          path: '/apps/invoice/list'
-        },
-        {
-          title: 'Preview',
-          path: '/apps/invoice/preview'
-        },
-        {
-          title: 'Edit',
-          path: '/apps/invoice/edit'
-        },
-        {
-          title: 'Add',
-          path: '/apps/invoice/add'
-        }
-      ]
+      path: '/mastering-lab/mastering-guide'
     },
     {
       title: 'User',
@@ -350,7 +341,6 @@ const navigation = (): VerticalNavItemsType => {
       icon: 'tabler:brand-tabler'
     },
     {
-      
       title: 'Cards',
       icon: 'tabler:id',
       children: [
@@ -457,7 +447,7 @@ const navigation = (): VerticalNavItemsType => {
         {
           title: 'More',
           path: '/components/more'
-        },
+        }
       ]
     },
     {
@@ -518,7 +508,7 @@ const navigation = (): VerticalNavItemsType => {
         {
           title: 'Input Mask',
           path: '/forms/form-elements/input-mask'
-        },
+        }
       ]
     },
     {
