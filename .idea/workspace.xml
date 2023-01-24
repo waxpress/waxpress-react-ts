@@ -5,8 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e767fa89-cc8d-4b13-82ff-0c7489e5f69d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/btn-slider-pitch-shift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/logo-waxpress.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/dashboards/library/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Button.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Header.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Introduction.stories.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Page.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/code-brackets.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/colors.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/comments.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/direction.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/flow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/plugin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/repo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/assets/stackalt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/229.8f4c87850026711f81aa.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/229.bc523a8a.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/295.7542ed64e99339c2b2f3.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/405.091be6ab.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/405.091be6ab.iframe.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/51.1ebe309eb51c260980a4.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/51.1ebe309eb51c260980a4.manager.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/51.3d7c78dd.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/51.3d7c78dd.iframe.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/551.4ea42777.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/551.acf7fa091774f8cfe60d.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/610.42c816286890424d3013.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/610.42c816286890424d3013.manager.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/701.d9678d71.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/745.b776924c.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/807.4be09cae61623670761f.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/807.4be09cae61623670761f.manager.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/807.fab19c60.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/807.fab19c60.iframe.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/897.80a23d1e.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/897.80a23d1e.iframe.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/897.ebfd03e27b31866041a9.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/897.ebfd03e27b31866041a9.manager.bundle.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/935.9b59a1e115c9fa8af56b.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/935.d2b07a5e.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/runtime~main.30712e13.iframe.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/runtime~main.3181986828a0726122c5.manager.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/code-brackets.2e1112d7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/colors.a4bd0486.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/comments.a3859089.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/direction.b770f9af.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/flow.edad2ac1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/plugin.d494b228.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/repo.6d496322.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook-static/static/media/stackalt.dba9fbb3.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configs/themeConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/themeConfig.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dev/useInitial.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/useInitial.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +94,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,20 +112,46 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.12.1",
+    "javascript.nodejs.core.library.typings.version": "",
     "last_opened_file_path": "C:/Users/jamesc/Projects/waxpress-react-ts",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\jamesc\\Projects\\waxpress-react-ts\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Users\\jamesc\\Projects\\waxpress-react-ts\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.build-storybook">
+    <configuration name="build-storybook" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -125,6 +222,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="npm.build" />
       <item itemvalue="npm.start" />
@@ -133,6 +240,8 @@
       <item itemvalue="npm.lint" />
       <item itemvalue="npm.format" />
       <item itemvalue="npm.build:icons" />
+      <item itemvalue="npm.build-storybook" />
+      <item itemvalue="npm.storybook" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -143,7 +252,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674511301982</updated>
-      <workItem from="1674511303122" duration="1905000" />
+      <workItem from="1674511303122" duration="6425000" />
     </task>
     <servers />
   </component>
