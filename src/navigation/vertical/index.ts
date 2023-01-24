@@ -4,32 +4,27 @@ import { VerticalNavItemsType } from 'src/@core/layouts/types'
 const navigation = (): VerticalNavItemsType => {
   return [
     {
-      title: 'Vinyl Lab',
-      icon: 'tabler:smart-home',
-      badgeContent: 'new',
-      badgeColor: 'error',
-      children: [
-        {
-          title: 'Library',
-          path: '/vinyl-lab/library'
-        },
-        {
-          title: 'Vinyl Creator',
-          path: '/vinyl-lab/creator'
-        },
-        {
-          title: 'Packaging Designer',
-          path: '/vinyl-lab/packaging-designer'
-        },
-        {
-          title: 'Vinyl Engraver',
-          path: '/vinyl-lab/vinyl-engraver'
-        },
-        {
-          title: 'Press Copies',
-          path: '/vinyl-lab/cutting-lab'
-        }
-      ]
+      sectionTitle: 'Vinyl Lab'
+    },
+    {
+      title: 'Library',
+      path: '/vinyl-lab/library'
+    },
+    {
+      title: 'Vinyl Creator',
+      path: '/vinyl-lab/creator'
+    },
+    {
+      title: 'Packaging Designer',
+      path: '/vinyl-lab/packaging-designer'
+    },
+    {
+      title: 'Vinyl Engraver',
+      path: '/vinyl-lab/vinyl-engraver'
+    },
+    {
+      title: 'Press Copies',
+      path: '/vinyl-lab/cutting-lab'
     },
     {
       sectionTitle: 'Mastering Lab'
@@ -55,13 +50,12 @@ const navigation = (): VerticalNavItemsType => {
       path: '/mastering-lab/mastering-guide'
     },
     {
-      title: 'User',
+      sectionTitle: 'Account & Settings'
+    },
+    {
+      title: 'My Account',
       icon: 'tabler:user',
       children: [
-        {
-          title: 'List',
-          path: '/apps/user/list'
-        },
         {
           title: 'View',
           children: [
